@@ -16003,6 +16003,7 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE1
+#, fuzzy
 msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE1"
 msgid ""
 "\n"
@@ -16011,6 +16012,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>Personnel Coordinator\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.BODY.SIGNATURE2"
@@ -16575,6 +16581,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-써머스 박사\n"
+"<size=11>정보통계학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.A3_DEVONSBLOG.SUBTITLE"
@@ -17148,6 +17159,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-써머스 박사\n"
+"<size=11>정보통계학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A5_THEJANITOR.SUBTITLE
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.SUBTITLE"
@@ -17282,6 +17298,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE
 msgctxt "STRINGS.CODEX.A6_NEWSECURITY2.SUBTITLE"
@@ -17407,6 +17427,7 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.SIGNATURE1
+#, fuzzy
 msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.BODY.SIGNATURE1"
 msgid ""
 "\n"
@@ -17415,6 +17436,11 @@ msgid ""
 "The Gravitas Facility</indent>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>Personnel Coordinator\n"
+"그라비타스 시설</indent>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A7_NEWEMPLOYEE.SUBTITLE
 msgctxt "STRINGS.CODEX.A7_NEWEMPLOYEE.SUBTITLE"
@@ -17513,6 +17539,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A8_NEWSECURITY3.SUBTITLE
 msgctxt "STRINGS.CODEX.A8_NEWSECURITY3.SUBTITLE"
@@ -17761,6 +17791,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-써머스 박사\n"
+"<size=11>정보통계학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE
 msgctxt "STRINGS.CODEX.B1_HOLLANDSDOG.SUBTITLE"
@@ -18433,6 +18468,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>공학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B50_MEMORYCHIP.SUBTITLE
 msgctxt "STRINGS.CODEX.B50_MEMORYCHIP.SUBTITLE"
@@ -19238,6 +19278,7 @@ msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.SIGNATURE1
+#, fuzzy
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.SIGNATURE1"
 msgid ""
 "\n"
@@ -19246,6 +19287,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"[--삭제됨--]\n"
+"<size=11>Human Resources Coordinator\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE
 msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.SUBTITLE"
@@ -20400,6 +20446,9 @@ msgid ""
 "-Q\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-Q\n"
+"------------------\n"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.BODY.SIGNATURE2"
@@ -20409,6 +20458,10 @@ msgid ""
 "Quinn Kelly\n"
 "------------------\n"
 msgstr ""
+"\n"
+"좋은 일만 가득하기를,\n"
+"퀸 켈리\n"
+"------------------\n"
 
 #. STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE
 msgctxt "STRINGS.CODEX.JOURNALISTREQUEST.SUBTITLE"
@@ -20687,6 +20740,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-올로웨이 박사\n"
+"<size=11>산업 조직 심리학자\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.MISSINGNOTES.BODY.SIGNATURE2"
@@ -29509,6 +29567,8 @@ msgid ""
 "\n"
 "Base: {0}"
 msgstr ""
+"\n"
+"기초 : {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
@@ -33653,6 +33713,8 @@ msgid ""
 "\n"
 "•  Select an infected object for more details"
 msgstr ""
+"\n"
+"•  자세한 정보를 얻으려면 감염된 물체를 선택하세요"
 
 #. STRINGS.DUPLICANTS.DISEASES.MEDICINE.BOOSTER
 msgctxt "STRINGS.DUPLICANTS.DISEASES.MEDICINE.BOOSTER"
@@ -36621,6 +36683,8 @@ msgid ""
 "\n"
 "Duration: {0}"
 msgstr ""
+"\n"
+"지속 시간 : {0}"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOOKABREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOOKABREAK.NAME"
@@ -36978,6 +37042,8 @@ msgid ""
 "\n"
 "Food Quality Score of {0}"
 msgstr ""
+"\n"
+"식품 품질 점수 : {0}"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION"
@@ -38109,6 +38175,8 @@ msgid ""
 "\n"
 "Average Decor This Cycle: <b>{0}</b>"
 msgstr ""
+"\n"
+"이번 주기의 평균 장식값 : <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_AVERAGE_YESTERDAY
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_AVERAGE_YESTERDAY"
@@ -38116,6 +38184,8 @@ msgid ""
 "\n"
 "Average Decor Last Cycle: <b>{0}</b>"
 msgstr ""
+"\n"
+"지난 주기의 평균 장식값 : <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_CURRENT
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP_CURRENT"
@@ -42220,6 +42290,8 @@ msgid ""
 "\n"
 "• "
 msgstr ""
+"\n"
+"• "
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
@@ -49873,6 +49945,8 @@ msgid ""
 "\n"
 "• <b>{0}</b>"
 msgstr ""
+"\n"
+"• <b>{0}</b>"
 
 #. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY"
@@ -61455,6 +61529,8 @@ msgid ""
 "\n"
 "Growth factors:"
 msgstr ""
+"\n"
+"성장 요인 : "
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TOOLTIP"
@@ -64923,6 +64999,9 @@ msgid ""
 "Found <style=\"KKeyword\">{0}</style> saves and <style=\"KKeyword\">{1}</"
 "style> autosaves that require migration."
 msgstr ""
+"\n"
+"데이터를 전송해야하는 <style=\"KKeyword\">{0}</style> 세이브 파일과 <style="
+"\"KKeyword\">{1}</style> 자동 세이브 파일을 찾았습니다"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_DONE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_DONE"
@@ -64995,6 +65074,9 @@ msgid ""
 "<b>If this still doesn't solve the problem, please post a bug in the forums "
 "and we will attempt to assist with your issue.</b>"
 msgstr ""
+"\n"
+"<b>그래도 문제가 해결되지 않는 경우 포럼에 버그를 게시하면 도와드리겠습니다."
+"</b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_PRE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_PRE"
@@ -83860,6 +83942,8 @@ msgid ""
 "\n"
 "<b>Surrounding Planetoids</b>:"
 msgstr ""
+"\n"
+"<b>주변 미행성들</b> : "
 
 #. STRINGS.WORLDS.SURVIVAL_CHANCE.MOSTHOSPITABLE
 msgctxt "STRINGS.WORLDS.SURVIVAL_CHANCE.MOSTHOSPITABLE"
