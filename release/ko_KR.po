@@ -3118,6 +3118,8 @@ msgid ""
 "\n"
 "  {0}"
 msgstr ""
+"\n"
+"  {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY"
@@ -16018,6 +16020,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-스턴 책임자\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE
 msgctxt "STRINGS.CODEX.A1_RESEARCHGIANTARTICLE.SUBTITLE"
@@ -18258,6 +18264,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-관리자\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B4_REMYPENS.SUBTITLE
 msgctxt "STRINGS.CODEX.B4_REMYPENS.SUBTITLE"
@@ -18488,6 +18498,12 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-브루사드 박사\n"
+"<size=11>생체공학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
+"\n"
 
 #. STRINGS.CODEX.B51_ARTHISTORYREQUEST.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.B51_ARTHISTORYREQUEST.BODY.SIGNATURE2"
@@ -18497,6 +18513,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-스턴 책임자\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B51_ARTHISTORYREQUEST.SUBTITLE
 msgctxt "STRINGS.CODEX.B51_ARTHISTORYREQUEST.SUBTITLE"
@@ -18591,6 +18611,12 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-브루사드 박사\n"
+"<size=11>생체공학부\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
+"\n"
 
 #. STRINGS.CODEX.B6_AICONTROL.BODY.SIGNATURE2
 msgctxt "STRINGS.CODEX.B6_AICONTROL.BODY.SIGNATURE2"
@@ -18600,6 +18626,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-스턴 책임자\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.B6_AICONTROL.SUBTITLE
 msgctxt "STRINGS.CODEX.B6_AICONTROL.SUBTITLE"
@@ -20678,6 +20708,11 @@ msgid ""
 "The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-스턴 책임자\n"
+"<size=11>\n"
+"그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.MISSINGNOTES.SUBTITLE
 msgctxt "STRINGS.CODEX.MISSINGNOTES.SUBTITLE"
@@ -22815,6 +22850,10 @@ msgid ""
 "<size=11>The Gravitas Facility</size>\n"
 "------------------\n"
 msgstr ""
+"\n"
+"-관리자\n"
+"<size=11>그라비타스 시설</size>\n"
+"------------------\n"
 
 #. STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE
 msgctxt "STRINGS.CODEX.TIMEOFFAPPROVED.SUBTITLE"
@@ -28864,6 +28903,8 @@ msgid ""
 "\n"
 "            • {Resource}: {Amount}"
 msgstr ""
+"\n"
+"            • {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
@@ -28883,6 +28924,8 @@ msgid ""
 "\n"
 "            • {Resource}: {Amount}"
 msgstr ""
+"\n"
+"            • {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME"
@@ -30037,6 +30080,8 @@ msgid ""
 "\n"
 "    • {0}: {1}"
 msgstr ""
+"\n"
+"    • {0}: {1}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC"
@@ -30350,6 +30395,9 @@ msgid ""
 "\n"
 "Total <b>{1}</b>: {0}"
 msgstr ""
+"\n"
+"\n"
+"총 <b>{1}</b> : {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC
 #, fuzzy
@@ -38076,6 +38124,9 @@ msgid ""
 "\n"
 "Current Environmental Decor: <b>{0}</b>"
 msgstr ""
+"\n"
+"\n"
+"현재 환경 장식값 : <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME"
@@ -39738,6 +39789,9 @@ msgid ""
 "\n"
 "They were sleeping peacefully until they were disturbed by <b>{Disturber}</b>"
 msgstr ""
+"\n"
+"\n"
+"<b>{Disturber}</b>에 의해 방해받기 전까진 평온하게 자고 있었습니다"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGBADLY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGBADLY.NAME"
@@ -61111,6 +61165,8 @@ msgid ""
 "\n"
 " • {0}"
 msgstr ""
+"\n"
+" • {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS"
@@ -61123,6 +61179,8 @@ msgid ""
 "\n"
 " • {0}"
 msgstr ""
+"\n"
+" • {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
@@ -67050,6 +67108,7 @@ msgid "This plant takes <b>{0}</b> to mature again once replanted"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_SEED_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_SEED_TOOLTIP"
 msgid ""
 "\n"
@@ -67057,6 +67116,10 @@ msgid ""
 "Growing near its maximum radiation increases the chance of mutant seeds "
 "being produced"
 msgstr ""
+"\n"
+"\n"
+"이 씨앗의 최대 방사선 수치에서 자라면 돌연변이 씨앗이 생산될 가능성이 증가합"
+"니다"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_STERILE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.MUTANT_STERILE"
@@ -68856,6 +68919,8 @@ msgid ""
 "\n"
 "    {0}: {1}"
 msgstr ""
+"\n"
+"    {0}: {1}"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISEASE_FORMAT
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISEASE_FORMAT"
