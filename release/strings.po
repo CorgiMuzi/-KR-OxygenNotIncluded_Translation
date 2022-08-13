@@ -64896,7 +64896,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr ""
+msgstr "불러오는 중..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -64904,51 +64904,53 @@ msgid ""
 "<color=#ff0000>Autosave: This file will get deleted as new autosaves are "
 "created</color>"
 msgstr ""
+"<color=#ff0000>자동 저장: 이 파일은 새 자동 저장 파일이 생성되면 삭제됩니다."
+"</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON"
 msgid "< BACK"
-msgstr ""
+msgstr "< 뒤로가기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.BASE_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.BASE_NAME"
 msgid "Base Name"
-msgstr ""
+msgstr "식민지 이름"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_SAVE"
 msgid "cloud"
-msgstr ""
+msgstr "클라우드"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CLOUD_TUTORIAL_BOUNCER"
 msgid "Upload Saves to Cloud"
-msgstr ""
+msgstr "클라우드에 저장본을 업로드"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONIES_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONIES_TITLE"
 msgid "Colony View"
-msgstr ""
+msgstr "식민지 보기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_NAME"
 msgid "File: '{0}'"
-msgstr ""
+msgstr "파일: '{0}'"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_SIZE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_FILE_SIZE"
 msgid "Size: {0}"
-msgstr ""
+msgstr "크기: {0}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_INFO_FMT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_INFO_FMT"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.COLONY_TITLE"
 msgid "Viewing colony '{0}'"
-msgstr ""
+msgstr "'{0}' 식민지 보는 중"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
@@ -64956,21 +64958,23 @@ msgid ""
 "Are you sure you want to delete {0}?\n"
 "You cannot undo this action."
 msgstr ""
+"정말로 {0}을(를) 삭제할까요?\n"
+"이 작업은 취소할 수 없습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONTENT"
 msgid "Content"
-msgstr ""
+msgstr "컨텐츠"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_COLONIES"
 msgid "CONVERT ALL"
-msgstr ""
+msgstr "모두 변환하기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD"
 msgid "Convert <b>all</b> colonies below to use cloud saves"
-msgstr ""
+msgstr "클라우드 저장을 사용하려면 아래의 <b>모든</b> 식민지를 변환하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD_SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_CLOUD_SUCCESS"
@@ -64983,11 +64987,19 @@ msgid ""
 "{Client} may take longer than usual to sync the next time you exit the game "
 "as a result of this change."
 msgstr ""
+"<style=\"KKeyword\">성공!</style>\n"
+"기존의 모든 식민지는 <style=\"KKeyword\">클라우드</style> 저장으로 변환되었습"
+"니다.\n"
+"새 식민지는 기본적으로 <style=\"KKeyword\">클라우드</style> 저장을 사용할 것"
+"입니다.\n"
+"\n"
+"이 변경으로 인해 {Client}은(는) 다음에 게임을 종료할 때 동기화하는 데 평소보"
+"다 오래 걸릴 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL"
 msgid "Convert <b>all</b> colonies below to use local saves"
-msgstr ""
+msgstr "로컬 저장을 사용하려면 아래의 <b>모든</b> 콜로니를 변환하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL_SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_TO_LOCAL_SUCCESS"
@@ -65000,6 +65012,14 @@ msgid ""
 "{Client} may take longer than usual to sync the next time you exit the game "
 "as a result of this change."
 msgstr ""
+"<style=\"KKeyword\">성공!</style>\n"
+"기존의 모든 식민지는 <style=\"KKeyword\">로컬</style> 저장으로 변환되었습니"
+"다.\n"
+"새 식민지는 기본적으로 <style=\"KKeyword\">로컬</style> 저장을 사용할 것입니"
+"다.\n"
+"\n"
+"이 변경으로 인해 {Client}은(는) 다음에 게임을 종료할 때 동기화하는 데 평소보"
+"다 오래 걸릴 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_WARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ALL_WARNING"
@@ -65007,21 +65027,23 @@ msgid ""
 "<style=\"KKeyword\">\n"
 "Warning:</style> Converting all colonies may take some time."
 msgstr ""
+"<style=\"KKeyword\">\n"
+"경고:</style> 모든 식민지를변환하는 데는 시간이 걸릴 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY"
 msgid "CONVERT COLONY"
-msgstr ""
+msgstr "식민지 변환"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_CLOUD"
 msgid "Convert colony to use cloud saves"
-msgstr ""
+msgstr "클라우드 저장을 사용하기 위해 식민지를 변환"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_COLONY_TO_LOCAL"
 msgid "Convert to colony to use local saves"
-msgstr ""
+msgstr "로컬 저장을 사용하기 위해 콜로니를 변환"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR"
@@ -65035,16 +65057,22 @@ msgid ""
 "Please try again, or post a bug in the forums if this problem keeps "
 "happening."
 msgstr ""
+"<style=\"KKeyword\">{Colony}</style> 식민지를 변환하지 못했습니다!\n"
+"오류는 다음과 같습니다.\n"
+"\n"
+"<b>{Error}</b>\n"
+"\n"
+"다시 시도하거나 이 문제가 계속 발생하면 포럼에 버그를 게시해주세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_ERROR_TITLE"
 msgid "SAVE CONVERSION UNSUCCESSFUL"
-msgstr ""
+msgstr "저장 변환 실패"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD"
 msgid "CONVERT TO CLOUD SAVES"
-msgstr ""
+msgstr "클라우드 저장으로 전환"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD_DETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_CLOUD_DETAILS"
@@ -65055,11 +65083,16 @@ msgid ""
 "This allows your game platform to sync this colony to the cloud for your "
 "account, so it can be played on multiple machines."
 msgstr ""
+"식민지를 클라우드 저장을 사용하도록 변환하면 해당 식민지의 모든 저장 파일이 "
+"클라우드 저장 폴더로 이동됩니다.\n"
+"\n"
+"이를 통해 게임 플랫폼이 이 식민지를 계정의 클라우드에 동기화할 수 있으므로 여"
+"러 기기에서 플레이할 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL"
 msgid "CONVERT TO LOCAL SAVES"
-msgstr ""
+msgstr "로컬 저장으로 전환"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL_DETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONVERT_TO_LOCAL_DETAILS"
@@ -65070,6 +65103,11 @@ msgid ""
 "<style=\"KKeyword\">These save files will no longer be synced to the cloud.</"
 "style>"
 msgstr ""
+"식민지를 클라우드 저장을 사용하지 않도록 변환하면 해당 식민지의 모든 저장 파"
+"일이 로컬 저장 폴더로 이동됩니다.\n"
+"\n"
+"<style=\"KKeyword\">이러한 저장 파일은 더 이상 클라우드에 동기화되지 않습니"
+"다.</style>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
@@ -65077,26 +65115,28 @@ msgid ""
 "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</"
 "color></b>"
 msgstr ""
+"<b><color=#ff0000>{0} 파일을 불러오지 못했습니다. 파일의 데이터가 손상되었을 "
+"수 있습니다.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED"
 msgid "Cycles Survived"
-msgstr ""
+msgstr "생존한 주기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "DELETE"
-msgstr ""
+msgstr "삭제"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DUPLICANTS_ALIVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DUPLICANTS_ALIVE"
 msgid "Duplicants Alive"
-msgstr ""
+msgstr "생존한 듀플리칸트들"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_CONTENT"
 msgid "<i>Spaced Out!</i> Expansion FIXME"
-msgstr ""
+msgstr "<i>우주를 향하여!</i> 확장팩 FIXME"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_RESTART
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_RESTART"
@@ -65104,11 +65144,13 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content enabled"
 msgstr ""
+"이 식민지를 로드하려면 <i>우주를 향하여!</i> 콘텐츠가 활성화된 상태에서 게임"
+"을 다시 시작해야 합니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE"
 msgid "local"
-msgstr ""
+msgstr "로컬"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_COUNT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_COUNT"
@@ -65124,17 +65166,17 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_DONE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_DONE"
 msgid "CONTINUE"
-msgstr ""
+msgstr "계속하기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_DONE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_DONE"
 msgid "MORE INFO"
-msgstr ""
+msgstr "자세한 정보"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_FORUM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_FAILURES_FORUM_BUTTON"
 msgid "VISIT FORUMS"
-msgstr ""
+msgstr "포럼 방문"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_INFO"
@@ -65143,6 +65185,8 @@ msgid ""
 "Please \\click\\ the button below to automatically update your save file "
 "storage."
 msgstr ""
+"저장 파일 구성 방식이 변경되었습니다!\n"
+"아래 버튼을 \\클릭하면\\ 저장 파일 저장소가 자동으로 업데이트됩니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT"
@@ -65151,6 +65195,9 @@ msgid ""
 "Migration moved <style=\"KKeyword\">{0}/{1}</style> saves and <style="
 "\"KKeyword\">{2}/{3}</style> autosaves</style>."
 msgstr ""
+"<style=\"KKeyword\">성공!</style>\n"
+"마이그레이션으로 저장된 게임 <style=\"KKeyword\">{0}/{1}</style>개 및 자동 저"
+"장된 게임 <style=\"KKeyword\">{2}/{3}</style>개를 이동했습니다.</style>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES"
@@ -65164,6 +65211,14 @@ msgid ""
 "\n"
 "<b>{ErrorMessage}</b>"
 msgstr ""
+"<style=\"KKeyword\"><b>경고:</b> 모든 저장된 게임을 마이그레이션할 수 없었습"
+"니다.</style>\n"
+"마이그레이션으로 저장된 게임 <style=\"KKeyword\">{0}/{1}</style>개 및 자동 저"
+"장된 게임 <style=\"KKeyword\">{2}/{3}</style>개를 이동했습니다.\n"
+"\n"
+"<style=\"KKeyword\">{ErrorColony}</style> 에서 발생한 오류:\n"
+"\n"
+"<b>{ErrorMessage}</b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM1
 msgctxt ""
@@ -65172,18 +65227,20 @@ msgid ""
 "    1. Try temporarily disabling virus scanners and malware\n"
 "         protection programs."
 msgstr ""
+"    1. 바이러스 스캐너 및 맬웨어 차단 프로그램을\n"
+"         일시적으로 비활성화하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM2
 msgctxt ""
 "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM2"
 msgid "    2. Turn off file sync services such as OneDrive and DropBox."
-msgstr ""
+msgstr "    2. OneDrive 및 DropBox와 같은 파일 동기화 서비스를 끕니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM3
 msgctxt ""
 "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_ITEM3"
 msgid "    3. Restart the game to retry file migration."
-msgstr ""
+msgstr "    3. 게임을 다시 시작하여 파일 마이그레이션을 다시 시도하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_POST
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_POST"
@@ -65203,52 +65260,55 @@ msgid ""
 "To fix this, please:</b>\n"
 "\n"
 msgstr ""
+"<b>모든 저장된 게임들을 새 위치로 이동할 수 없었습니다.\n"
+"이 문제를 해결하려면 다음을 수행하세요.</b>\n"
+"\n"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_TITLE
 msgctxt ""
 "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_RESULT_FAILURES_MORE_INFO_TITLE"
 msgid "MIGRATION INCOMPLETE"
-msgstr ""
+msgstr "마이그레이션 미완료"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_SAVE_FILES
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_SAVE_FILES"
 msgid "MIGRATE SAVE FILES"
-msgstr ""
+msgstr "저장된 게임 파일들을 마이그레이션하기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MIGRATE_TITLE"
 msgid "SAVE FILE MIGRATION"
-msgstr ""
+msgstr "저장된 게이 파일 마이그레이션"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO"
 msgid "More Info"
-msgstr ""
+msgstr "자세한 정보"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NEWEST_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NEWEST_SAVE"
 msgid "Newest Save"
-msgstr ""
+msgstr "최신 저장 게임"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NO_FILE_SELECTED
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NO_FILE_SELECTED"
 msgid "No file selected"
-msgstr ""
+msgstr "선택한 파일 없음"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.NO_PREVIEW"
 msgid "NO PREVIEW"
-msgstr ""
+msgstr "미리 보기 없음"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_CLOUDSAVE_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_CLOUDSAVE_FOLDER"
 msgid "CLOUD SAVES"
-msgstr ""
+msgstr "클라우드 저장 파일"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_SAVE_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.OPEN_SAVE_FOLDER"
 msgid "LOCAL SAVES"
-msgstr ""
+msgstr "로컬 저장 파일"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT"
@@ -65256,6 +65316,8 @@ msgid ""
 "<b><color=#ff0000>This save is from <i>Spaced Out!</i> Activate the DLC to "
 "play it! (v{2}/v{4})</color></b>"
 msgstr ""
+"<b><color=#ff0000>이 저장 파일은 <i>우주를 향하여!</i>가 포함되어 있습니다. "
+"플레이하려면 DLC를 활성화하세요! (v{2}/v{4})</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP"
@@ -65263,26 +65325,28 @@ msgid ""
 "This save was created in the <i>Spaced Out!</i> DLC and can't be loaded in "
 "the base game."
 msgstr ""
+"이 저장 파일은 <i>우주를 향하여!</i> DLC에서 생성되었으며 기본 게임에서는 불"
+"러올 수 없습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO"
 msgid "{0} saves  {1} autosaves  {2}"
-msgstr ""
+msgstr "{0} 저장 파일  {1} 자동 저장 파일  {2}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TEXT"
 msgid "Access your save files using the options below."
-msgstr ""
+msgstr "아래 옵션을 사용하여 저장 파일에 접속하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TITLE"
 msgid "SAVE INFORMATION"
-msgstr ""
+msgstr "저장 파일 정보"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO_DIALOG_TOOLTIP"
 msgid "Access your save file locations from here."
-msgstr ""
+msgstr "여기에서 저장 파일 위치에 접근하세요."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT"
@@ -65290,6 +65354,8 @@ msgid ""
 "<b><color=#ff0000>Could not load file {0}. File was saved with content that "
 "is not currently installed.</color></b>"
 msgstr ""
+"<b><color=#ff0000>{0} 파일을 로드할 수 없습니다. 현재 설치되지 않은 컨텐츠와 "
+"함께 파일이 저장되었습니다.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
@@ -65297,6 +65363,8 @@ msgid ""
 "<b><color=#ff0000>Could not load file {0}. File is using build {1}, v{2}. "
 "This build is {3}, v{4}.</color></b>"
 msgstr ""
+"<b><color=#ff0000>{0} 파일을 로드하지 못했습니다. 파일이 {1}, v{2} 빌드를 사"
+"용하고 있습니다. 이 빌드는 {3}, v{4}입니다.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
@@ -65310,16 +65378,24 @@ msgid ""
 "<b>Duplicants Alive:</b> {3}\n"
 "<b>Cycle(s) Survived:</b> {4}"
 msgstr ""
+"<b>파일:</b> {0}\n"
+"\n"
+"<b>저장 날짜:</b>\n"
+"{1}\n"
+"\n"
+"<b>식민지 이름:</b> {2}\n"
+"<b>살아있는 듀플리칸트:</b> {3}\n"
+"<b>생존한 주기:</b> {4}"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "게임 불러오기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT"
 msgid "LOAD GAME"
-msgstr ""
+msgstr "게임 불러오기"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
@@ -65327,6 +65403,8 @@ msgid ""
 "<b><color=#ff0000>This save file is from a previous version of the game and "
 "is no longer supported.</color></b>"
 msgstr ""
+"<b><color=#ff0000>이 저장 파일은 이전 버전에서 저장된 게임이며 더 이상 지원되"
+"지 않습니다.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP"
@@ -65334,11 +65412,13 @@ msgid ""
 "<b><color=#ff0000>This save file is from the base version of the game and "
 "currently cannot be loaded while <i>Spaced Out!</i> is installed.</color></b>"
 msgstr ""
+"<b><color=#ff0000>이 저장 파일은 게임의 기본 버전에 대한 것이며 현재 <i>우주"
+"를 향하여!</i>가 설치되어 있는 동안에는 불러올 수 없습니다.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT"
 msgid "Vanilla FIXME"
-msgstr ""
+msgstr "기본 게임 FIXME"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_RESTART"
@@ -65346,11 +65426,13 @@ msgid ""
 "Loading this colony will require restarting the game with <i>Spaced Out!</i> "
 "content disabled"
 msgstr ""
+"이 식민지를 불러오려면 <i>우주를 향하여!</i> 컨텐츠가 비활성화된 상태에서 게"
+"임을 다시 시작해야 합니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.WORLD_NAME"
 msgid "Asteroid Type"
-msgstr ""
+msgstr "소행성 유형"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DESKTOPQUITCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DESKTOPQUITCONFIRM"
@@ -65853,7 +65935,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.ACTIVE_DURING_CRASH
 msgctxt "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.ACTIVE_DURING_CRASH"
 msgid "Mod was active during a crash and may be the cause"
-msgstr ""
+msgstr "게임이 중단될 때 모드가 활성화되어있었으며 그것이 원인일 수 있습니다"
 
 #. STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.ALL_MODS_DISABLED_EARLY_ACCESS
 msgctxt ""
@@ -65940,12 +66022,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.BLANK_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.BLANK_DESC"
 msgid "Select a playstyle..."
-msgstr ""
+msgstr "생존 난이도를 선택하세요..."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.HEADER"
 msgid "GAME MODE"
-msgstr ""
+msgstr "생존 난이도"
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC"
@@ -65953,11 +66035,13 @@ msgid ""
 "When disaster strikes (and it inevitably will), take a deep breath and stay "
 "calm. You have ample time to find a solution."
 msgstr ""
+"식민지가 멸망할 위기가 찾아오더라도 (반드시 찾아옵니다) 깊게 심호흡하고 침착"
+"하세요. 해결책을 찾을 시간은 충분합니다!"
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_TITLE"
 msgid "NO SWEAT"
-msgstr ""
+msgstr "땀 날 일 없어요"
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_DESC"
@@ -65965,26 +66049,28 @@ msgid ""
 "Stay on your toes and one step ahead of this unforgiving world. One slip up "
 "could bring your colony crashing down."
 msgstr ""
+"방심하지 말고 이 무자비한 세상보다 한 발 앞서가세요. 단 한번의 실수가 당신의 "
+"식민지를 멸망시킬 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE"
 msgid "SURVIVAL"
-msgstr ""
+msgstr "생존해 보세요"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.DISABLED_CONTENT"
 msgid " - <b>Not compatible with <i>{Content}</i></b>"
-msgstr ""
+msgstr " - <b><i>{Content}</i>와(과) 호환되지 않아요</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.NO_CONTENT"
 msgid " - <b>No compatible mod found</b>"
-msgstr ""
+msgstr " - <b>호환 가능한 모드를 찾을 수 없어요</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API
 msgctxt "STRINGS.UI.FRONTEND.MODS.CONTENT_FAILURE.OLD_API"
 msgid " - <b>Mod out-of-date</b>"
-msgstr ""
+msgstr " - <b>오래된 모드</b>"
 
 #. STRINGS.UI.FRONTEND.MODS.DB_CORRUPT
 msgctxt "STRINGS.UI.FRONTEND.MODS.DB_CORRUPT"
@@ -65993,21 +66079,24 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"모드 데이터베이스를 불러오는 중 에러가 발생했습니다.\n"
+"\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.MODS.DISABLE_ALL
 msgctxt "STRINGS.UI.FRONTEND.MODS.DISABLE_ALL"
 msgid "DISABLE ALL"
-msgstr ""
+msgstr "모두 비활성화 "
 
 #. STRINGS.UI.FRONTEND.MODS.DRAG_TO_REORDER
 msgctxt "STRINGS.UI.FRONTEND.MODS.DRAG_TO_REORDER"
 msgid "Drag to reorder"
-msgstr ""
+msgstr "순서를 바꾸려면 드래그하세요"
 
 #. STRINGS.UI.FRONTEND.MODS.ENABLE_ALL
 msgctxt "STRINGS.UI.FRONTEND.MODS.ENABLE_ALL"
 msgid "ENABLE ALL"
-msgstr ""
+msgstr "모두 활성화"
 
 #. STRINGS.UI.FRONTEND.MODS.FAILED_TO_LOAD
 msgctxt "STRINGS.UI.FRONTEND.MODS.FAILED_TO_LOAD"
@@ -66018,51 +66107,56 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"모드를 불러오는데 실패하여 비활성화되었습니다:\n"
+"\n"
+"{0}: {1}\n"
+"\n"
+"{2}"
 
 #. STRINGS.UI.FRONTEND.MODS.MANAGE
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE"
 msgid "Subscription"
-msgstr ""
+msgstr "구독"
 
 #. STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL
 msgctxt "STRINGS.UI.FRONTEND.MODS.MANAGE_LOCAL"
 msgid "Browse"
-msgstr ""
+msgstr "찾아보기"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.CONTENT_FOLDER"
 msgid "Content Folder Path"
-msgstr ""
+msgstr "컨텐츠 폴더 경로"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.DESCRIPTION"
 msgid "Mod Description"
-msgstr ""
+msgstr "모드 설명"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.FRIEND
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.FRIEND"
 msgid "Friend"
-msgstr ""
+msgstr "친구 "
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.PRIVATE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.PRIVATE"
 msgid "Private"
-msgstr ""
+msgstr "비공개"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.PUBLIC
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.PUBLIC"
 msgid "Public"
-msgstr ""
+msgstr "공개"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_FRIEND
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_FRIEND"
 msgid "Friend"
-msgstr ""
+msgstr "친구 "
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_PRIVATE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_PRIVATE"
 msgid "This mod will only be visible to its creator"
-msgstr ""
+msgstr "이 모드는 제작자에게만 표시됩니다."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_PUBLIC
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_SHARE_TYPE.TOOLTIP_PUBLIC"
@@ -66070,36 +66164,38 @@ msgid ""
 "This mod will be available to all players after publishing. It may be "
 "subject to review before being allowed to be published."
 msgstr ""
+"이 모드는 게시 후 모든 플레이어가 사용할 수 있습니다. 게시가 허용되기 전에 검"
+"토 대상이 될 수 있습니다."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.FAILURE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.FAILURE"
 msgid "Mod upload failed."
-msgstr ""
+msgstr "모드 업로드에 실패했습니다."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.SUCCESS
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.MOD_UPLOAD_RESULT.SUCCESS"
 msgid "Mod upload succeeded."
-msgstr ""
+msgstr "모드 업로드에 성공했습니다."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.NAME
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.NAME"
 msgid "Mod Name"
-msgstr ""
+msgstr "모드 이름"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.PREVIEW_IMAGE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.PREVIEW_IMAGE"
 msgid "Preview Image Path"
-msgstr ""
+msgstr "썸네일 이미지 경로"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SHARE_TYPE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SHARE_TYPE"
 msgid "Share Type"
-msgstr ""
+msgstr "공유 유형"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT"
 msgid "Submit"
-msgstr ""
+msgstr "업로드"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT_NOT_READY
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT_NOT_READY"
@@ -66107,78 +66203,80 @@ msgid ""
 "The mod cannot be submitted. Check that all fields are properly entered and "
 "that the paths are valid."
 msgstr ""
+"모드를 업로드할 수 없습니다. 모든 필드가 올바르게 입력되었고 경로가 유효한지 "
+"확인하세요."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT_READY
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.SUBMIT_READY"
 msgid "This mod is ready to submit"
-msgstr ""
+msgstr "이 모드는 업로드할 준비가 되었습니다."
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.TITLE"
 msgid "Upload Mod"
-msgstr ""
+msgstr "모드 업로드"
 
 #. STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.VERSION
 msgctxt "STRINGS.UI.FRONTEND.MODS.RAILMODUPLOAD.VERSION"
 msgid "Version Number"
-msgstr ""
+msgstr "버전 번호"
 
 #. STRINGS.UI.FRONTEND.MODS.REQUIRES_RESTART
 msgctxt "STRINGS.UI.FRONTEND.MODS.REQUIRES_RESTART"
 msgid "Mod changes require restart"
-msgstr ""
+msgstr "모드 변경 사항을 적용하려면 다시 시작해야 함"
 
 #. STRINGS.UI.FRONTEND.MODS.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODS.TITLE"
 msgid "MODS"
-msgstr ""
+msgstr "모드"
 
 #. STRINGS.UI.FRONTEND.MODS.TOOLTIPS.DISABLED
 msgctxt "STRINGS.UI.FRONTEND.MODS.TOOLTIPS.DISABLED"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성화됨"
 
 #. STRINGS.UI.FRONTEND.MODS.TOOLTIPS.ENABLED
 msgctxt "STRINGS.UI.FRONTEND.MODS.TOOLTIPS.ENABLED"
 msgid "Enabled"
-msgstr ""
+msgstr "활성화됨"
 
 #. STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_LOCAL_MOD
 msgctxt "STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_LOCAL_MOD"
 msgid "Manage Local Mod"
-msgstr ""
+msgstr "로컬 모드 관리"
 
 #. STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_RAIL_SUBSCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_RAIL_SUBSCRIPTION"
 msgid "Manage Subscription"
-msgstr ""
+msgstr "구독 관리"
 
 #. STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_STEAM_SUBSCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.MODS.TOOLTIPS.MANAGE_STEAM_SUBSCRIPTION"
 msgid "Manage Steam Subscription"
-msgstr ""
+msgstr "Steam 구독 관리"
 
 #. STRINGS.UI.FRONTEND.MODS.WORKSHOP
 msgctxt "STRINGS.UI.FRONTEND.MODS.WORKSHOP"
 msgid "STEAM WORKSHOP"
-msgstr ""
+msgstr "Steam 창작마당"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
 msgid "FAST FRIENDS"
-msgstr ""
+msgstr "친한 친구들"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
 msgid ""
 "Stay up to date by joining our mailing list, or head on over to the forums "
 "and join the discussion."
-msgstr ""
+msgstr "포럼에 참여하거나 메일을 수신하여 최신 정보를 확인하세요."
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_HEADER"
 msgid "JOIN THE DISCUSSION"
-msgstr ""
+msgstr "토론에 참여하기"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
@@ -66193,96 +66291,105 @@ msgid ""
 "\n"
 "   Check out the full patch notes for more details!"
 msgstr ""
+"업데이트 내용:\n"
+"\n"
+"•<indent=20px>성능 크게 향상</indent>\n"
+"•<indent=20px>새로운 복제체</indent>\n"
+"•<indent=20px>새로운 기쁨과 스트레스 특성 </indent>\n"
+"•<indent=20px>새로운 크리터 모프</indent>\n"
+"•<indent=20px>많은 충돌 및 버그 수정</indent>\n"
+"\n"
+"   자세한 내용은 패치 전문을 확인하세요!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
 msgid "LAUNCHED!"
-msgstr ""
+msgstr "출시했어요!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT_EXPANSION1"
 msgid "LAUNCHED!"
-msgstr ""
+msgstr "출시했어요!"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CUSTOMGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CUSTOMGAME"
 msgid "Custom Game"
-msgstr ""
+msgstr "사용자 지정 게임"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STANDARDGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STANDARDGAME"
 msgid "Standard Game"
-msgstr ""
+msgstr "표준 게임"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STARTGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STARTGAME"
 msgid "Start Game"
-msgstr ""
+msgstr "게임 시작"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.HEADER
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.HEADER"
 msgid "GAME SETTINGS"
-msgstr ""
+msgstr "게임 설정"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
 msgid "Audio"
-msgstr ""
+msgstr "소리"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 msgid "Done"
-msgstr ""
+msgstr "설정 완료"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr ""
+msgstr "조작법"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "제작진"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK"
 msgid "Feedback"
-msgstr ""
+msgstr "피드백"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME"
 msgid "Game"
-msgstr ""
+msgstr "게임"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
 msgid "Graphics"
-msgstr ""
+msgstr "그래픽"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "언어 변경"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
 msgid "Data Collection"
-msgstr ""
+msgstr "정보 수집"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS"
 msgid "MODS"
-msgstr ""
+msgstr "모드"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL"
 msgid "Reset Tutorial Messages"
-msgstr ""
+msgstr "초보자용 알림 초기화"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING"
@@ -66290,39 +66397,41 @@ msgid ""
 "All tutorial messages will be reset, and\n"
 "will show up again the next time you play the game."
 msgstr ""
+"모든 초보자용 알림이 초기화되고,\n"
+"다음에 게임을 다시 플레이할 경우 다시 나타납니다."
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS"
 msgid "Save Options"
-msgstr ""
+msgstr "옵션 저장"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
 msgid "OPTIONS"
-msgstr ""
+msgstr "옵션"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.BACKUP_SAVE_GAME_APPEND
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN."
 "BACKUP_SAVE_GAME_APPEND"
 msgid " (BACKUP)"
-msgstr ""
+msgstr " (백업)"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM"
 msgid "Enable Sandbox Mode"
-msgstr ""
+msgstr "샌드박스 모드 켜기"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP"
 msgid "Enable Sandbox Mode, but save a backup first"
-msgstr ""
+msgstr "샌드박스 모드를 켜지만 먼저 백업을 저장합니다."
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.UNLOCK_SANDBOX_WARNING
 msgctxt ""
@@ -83325,58 +83434,58 @@ msgstr ""
 #. STRINGS.VIDEOS.TUTORIAL_HEADER
 msgctxt "STRINGS.VIDEOS.TUTORIAL_HEADER"
 msgid "Tutorial:"
-msgstr ""
+msgstr "튜토리얼:"
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_LARGE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_LARGE.DESCRIPTION"
 msgid "Huge boulders make digging through this world more difficult"
-msgstr ""
+msgstr "이 소행성의 미친듯이 큰 암석들은 땅을 파기 더 어렵게 만듭니다."
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_LARGE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_LARGE.NAME"
 msgid "Large Boulders"
-msgstr ""
+msgstr "거대한 암석"
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.DESCRIPTION"
 msgid "Mid-sized boulders make digging through this world more difficult"
-msgstr ""
+msgstr "이 소행성의 중간 크기의 암석들은 땅을 파기 더 어렵게 만듭니다."
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.NAME
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MEDIUM.NAME"
 msgid "Medium Boulders"
-msgstr ""
+msgstr "중간 크기 암석"
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_MIXED.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MIXED.DESCRIPTION"
 msgid ""
 "Boulders of various sizes make digging through this world more difficult"
-msgstr ""
+msgstr "이 소행성의 다양한 크기의 암석들은 땅을 파기 더 어렵게 만듭니다."
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_MIXED.NAME
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_MIXED.NAME"
 msgid "Mixed Boulders"
-msgstr ""
+msgstr "혼합된 암석"
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_SMALL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_SMALL.DESCRIPTION"
 msgid "Tiny boulders make digging through this world more difficult"
-msgstr ""
+msgstr "이 소행성의 매우 작은 크기의 암석들은 땅을 파기 더 어렵게 만듭니다."
 
 #. STRINGS.WORLD_TRAITS.BOULDERS_SMALL.NAME
 msgctxt "STRINGS.WORLD_TRAITS.BOULDERS_SMALL.NAME"
 msgid "Small Boulders"
-msgstr ""
+msgstr "작은 암석"
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.DESCRIPTION"
 msgid "This world contains crashed radioactive satellites"
-msgstr ""
+msgstr "이 세계에는 추락한 방사성 위성들이 존재합니다."
 
 #. STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.CRASHED_SATELLITES.NAME"
 msgid "Crashed Satellites"
-msgstr ""
+msgstr "추락한 위성"
 
 #. STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.DESCRIPTION"
@@ -83384,31 +83493,35 @@ msgid ""
 "Most of the <style=\"KKeyword\">Oil</style> in this world will need to be "
 "extracted with <link=\"OILWELLCAP\">Oil Well</link>s"
 msgstr ""
+"이 세계에서 대부분의 <style=\"KKeyword\">석유</style>는 <link=\"OILWELLCAP\">"
+"유정</link>으로 추출해야 합니다."
 
 #. STRINGS.WORLD_TRAITS.DEEP_OIL.NAME
 msgctxt "STRINGS.WORLD_TRAITS.DEEP_OIL.NAME"
 msgid "Trapped Oil"
-msgstr ""
+msgstr "매장된 석유"
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.DESCRIPTION"
 msgid "This world contains a frozen friend from a long time ago"
-msgstr ""
+msgstr "이 세계에는 오래전에 얼어붙은 친구가 있습니다."
 
 #. STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME
 msgctxt "STRINGS.WORLD_TRAITS.DISTRESS_SIGNAL.NAME"
 msgid "Frozen Friend"
-msgstr ""
+msgstr "얼어붙은 친구"
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.DESCRIPTION"
 msgid "This world has a chilly core of solid <link=\"ICE\">Ice</link>"
 msgstr ""
+"이 세계는 단단한 <link=\"ICE\">얼음</link>으로 된 차가운 핵을 가지고 있습니"
+"다."
 
 #. STRINGS.WORLD_TRAITS.FROZEN_CORE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.FROZEN_CORE.NAME"
 msgid "Frozen Core"
-msgstr ""
+msgstr "얼어붙은 핵"
 
 #. STRINGS.WORLD_TRAITS.GEOACTIVE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.GEOACTIVE.DESCRIPTION"
@@ -83416,22 +83529,24 @@ msgid ""
 "This world has more <style=\"KKeyword\">Geysers</style> and <style=\"KKeyword"
 "\">Vents</style> than usual"
 msgstr ""
+"이 세계에는 평균보다 더 많은 <style=\"KKeyword\">간헐천</style> 및 <style="
+"\"KKeyword\">분출구</style>가 있습니다."
 
 #. STRINGS.WORLD_TRAITS.GEOACTIVE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.GEOACTIVE.NAME"
 msgid "Geoactive"
-msgstr ""
+msgstr "활발한 지각"
 
 #. STRINGS.WORLD_TRAITS.GEODES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.GEODES.DESCRIPTION"
 msgid ""
 "Large geodes containing rare material caches are deposited across this world"
-msgstr ""
+msgstr "희귀한 광물 지대가 포함된 거대한 광맥이 이 소행성을 관통하고 있습니다."
 
 #. STRINGS.WORLD_TRAITS.GEODES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.GEODES.NAME"
 msgid "Geodes"
-msgstr ""
+msgstr "광맥"
 
 #. STRINGS.WORLD_TRAITS.GEODORMANT.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.GEODORMANT.DESCRIPTION"
@@ -83439,11 +83554,13 @@ msgid ""
 "This world has fewer <style=\"KKeyword\">Geysers</style> and <style="
 "\"KKeyword\">Vents</style> than usual"
 msgstr ""
+"이 소행성에는 평균보다 더 적은 <style=\"KKeyword\">간헐천</style> 및 <style="
+"\"KKeyword\">분출구</style>가 있습니다."
 
 #. STRINGS.WORLD_TRAITS.GEODORMANT.NAME
 msgctxt "STRINGS.WORLD_TRAITS.GEODORMANT.NAME"
 msgid "Geodormant"
-msgstr ""
+msgstr "휴식중인 지각"
 
 #. STRINGS.WORLD_TRAITS.GLACIERS_LARGE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.GLACIERS_LARGE.DESCRIPTION"
@@ -83451,32 +83568,33 @@ msgid ""
 "Huge chunks of primordial <link=\"ICE\">Ice</link> are scattered across this "
 "world"
 msgstr ""
+"거대한 원시 <link=\"ICE\">얼음</link> 덩어리가 이 소행성에 흩어져 있습니다."
 
 #. STRINGS.WORLD_TRAITS.GLACIERS_LARGE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.GLACIERS_LARGE.NAME"
 msgid "Large Glaciers"
-msgstr ""
+msgstr "거대한 빙하"
 
 #. STRINGS.WORLD_TRAITS.IRREGULAR_OIL.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.IRREGULAR_OIL.DESCRIPTION"
 msgid ""
 "The <style=\"KKeyword\">Oil</style> on this asteroid is anything but regular!"
-msgstr ""
+msgstr "이 소행성의 <style=\"KKeyword\">기름</style>층은 보통이 아닙니다!"
 
 #. STRINGS.WORLD_TRAITS.IRREGULAR_OIL.NAME
 msgctxt "STRINGS.WORLD_TRAITS.IRREGULAR_OIL.NAME"
 msgid "Irregular Oil"
-msgstr ""
+msgstr "비정상적인 기름"
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.DESCRIPTION"
 msgid "This world has a lush forest core"
-msgstr ""
+msgstr "이 소행성에는 울창한 숲으로 된 핵이 있습니다."
 
 #. STRINGS.WORLD_TRAITS.LUSH_CORE.NAME
 msgctxt "STRINGS.WORLD_TRAITS.LUSH_CORE.NAME"
 msgid "Lush Core"
-msgstr ""
+msgstr "풍성한 핵"
 
 #. STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.MAGMA_VENTS.DESCRIPTION"
@@ -83484,21 +83602,23 @@ msgid ""
 "The <link=\"MAGMA\">Magma</link> from this world's core has leaked into the "
 "mantle and crust"
 msgstr ""
+"이 소행성의 핵의 <link=\"MAGMA\">마그마</link>가 맨틀과 지각으로 흘러들어갔습"
+"니다."
 
 #. STRINGS.WORLD_TRAITS.MAGMA_VENTS.NAME
 msgctxt "STRINGS.WORLD_TRAITS.MAGMA_VENTS.NAME"
 msgid "Magma Channels"
-msgstr ""
+msgstr "마그마 수로"
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.DESCRIPTION"
 msgid "This world has caves of metal ore"
-msgstr ""
+msgstr "이 소행성에는 금속 광석으로 된 동굴이 있습니다."
 
 #. STRINGS.WORLD_TRAITS.METAL_CAVES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.METAL_CAVES.NAME"
 msgid "Metallic Caves"
-msgstr ""
+msgstr "코발트 동굴"
 
 #. STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.METAL_POOR.DESCRIPTION"
@@ -83506,22 +83626,24 @@ msgid ""
 "There is a reduced amount of <style=\"KKeyword\">Metal Ore</style> on this "
 "world, proceed with caution!"
 msgstr ""
+"이 소행성에는 <style=\"KKeyword\">금속 광석</style>양이 적으니, 주의하여 운영"
+"하세요!"
 
 #. STRINGS.WORLD_TRAITS.METAL_POOR.NAME
 msgctxt "STRINGS.WORLD_TRAITS.METAL_POOR.NAME"
 msgid "Metal Poor"
-msgstr ""
+msgstr "적은 금속"
 
 #. STRINGS.WORLD_TRAITS.METAL_RICH.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.METAL_RICH.DESCRIPTION"
 msgid ""
 "This asteroid is an abundant source of <style=\"KKeyword\">Metal Ore</style>"
-msgstr ""
+msgstr "이 소행성은 <style=\"KKeyword\">금속 광석</style>이 풍부합니다."
 
 #. STRINGS.WORLD_TRAITS.METAL_RICH.NAME
 msgctxt "STRINGS.WORLD_TRAITS.METAL_RICH.NAME"
 msgid "Metal Rich"
-msgstr ""
+msgstr "풍부한 금속"
 
 #. STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION"
@@ -83529,33 +83651,35 @@ msgid ""
 "The <link=\"HEADQUARTERS\">Printing Pod</link> didn't end up in the "
 "asteroid's exact center this time... but it's still nowhere near the surface"
 msgstr ""
+"<link=\"HEADQUARTERS\">프린팅 포드</link>가 소행성의 중심에 착륙하지 못했지"
+"만... 지표 근처에 있지도 않습니다."
 
 #. STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME
 msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME"
 msgid "Alternate Pod Location"
-msgstr ""
+msgstr "변경된 포드 위치"
 
 #. STRINGS.WORLD_TRAITS.MISSING_TRAIT
 msgctxt "STRINGS.WORLD_TRAITS.MISSING_TRAIT"
 msgid "<missing trait>"
-msgstr ""
+msgstr "<알수없는 특성>"
 
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.DESCRIPTION"
 msgid ""
 "This world exists in a particularly stable configuration each time it is "
 "encountered"
-msgstr ""
+msgstr "이 소행성은 방문할 때마다 매우 안정적인 상태로 존재합니다."
 
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME"
 msgid "<i>This world is stable and has no unusual features.</i>"
-msgstr ""
+msgstr "<i>이 세계는 안정적이고 별다른 특징이 없습니다.</i>"
 
 #. STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND
 msgctxt "STRINGS.WORLD_TRAITS.NO_TRAITS.NAME_SHORTHAND"
 msgid "No unusual features"
-msgstr ""
+msgstr "별다른 특징 없음"
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.DESCRIPTION"
@@ -83563,11 +83687,13 @@ msgid ""
 "Deposits of <link=\"URANIUMORE\">Uranium Ore</link> are found in this "
 "world's crust"
 msgstr ""
+"이 소행성의 지각에는 <link=\"URANIUMORE\">우라늄 광물</link>이 매장되어 있습"
+"니다."
 
 #. STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME
 msgctxt "STRINGS.WORLD_TRAITS.RADIOACTIVE_CRUST.NAME"
 msgid "Radioactive Crust"
-msgstr ""
+msgstr "방사능에 노출된 지표"
 
 #. STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.SLIME_SPLATS.DESCRIPTION"
@@ -83575,22 +83701,24 @@ msgid ""
 "Sickly <link=\"SLIMEMOLD\">Slime</link> growths have crept all over this "
 "world"
 msgstr ""
+"끈적거리는 <link=\"SLIMEMOLD\">는지렁이</link>가 온 행성을 뒤덮었습니다."
 
 #. STRINGS.WORLD_TRAITS.SLIME_SPLATS.NAME
 msgctxt "STRINGS.WORLD_TRAITS.SLIME_SPLATS.NAME"
 msgid "Slime Molds"
-msgstr ""
+msgstr "는지렁이로 도배됨"
 
 #. STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.DESCRIPTION"
 msgid ""
 "Below the crust of this world is a <link=\"SALTWATER\">Salt Water</link> sea"
 msgstr ""
+"이 소행성의 지각 아래에는 <link=\"SALTWATER\">소금물</link> 바다가 있습니다."
 
 #. STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.NAME
 msgctxt "STRINGS.WORLD_TRAITS.SUBSURFACE_OCEAN.NAME"
 msgid "Subsurface Ocean"
-msgstr ""
+msgstr "지표 아래의 바다"
 
 #. STRINGS.WORLD_TRAITS.VOLCANOES.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.VOLCANOES.DESCRIPTION"
@@ -83598,11 +83726,12 @@ msgid ""
 "Several active <style=\"KKeyword\">Volcanoes</style> have been detected in "
 "this world"
 msgstr ""
+"이 행성에서 활발한 <style=\"KKeyword\">화산</style>이 여러개 발견되었습니다."
 
 #. STRINGS.WORLD_TRAITS.VOLCANOES.NAME
 msgctxt "STRINGS.WORLD_TRAITS.VOLCANOES.NAME"
 msgid "Volcanic Activity"
-msgstr ""
+msgstr "활발한 화산 활ㄷ"
 
 #. STRINGS.WORLDS.BADLANDS.DESCRIPTION
 msgctxt "STRINGS.WORLDS.BADLANDS.DESCRIPTION"
@@ -83614,6 +83743,11 @@ msgid ""
 "challenging.</smallcaps>\n"
 "\n"
 msgstr ""
+"광물 자원이 많은 불모의 장소.\n"
+"\n"
+"<smallcaps>배드랜즈의 바위 많은 지형은 즉각적인 위협은 없지만 자원이 부족하"
+"면 확장 및 기술 발전이 어려워집니다.</smallcaps>\n"
+"\n"
 
 #. STRINGS.WORLDS.BADLANDS.NAME
 msgctxt "STRINGS.WORLDS.BADLANDS.NAME"
